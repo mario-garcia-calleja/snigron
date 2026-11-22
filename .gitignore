@@ -1,0 +1,26 @@
+# Nextflow
+work/
+.nextflow/
+.nextflow.log*
+results/
+null/
+
+# Data and large databases: never commit sequencing data
+*.pod5
+*.fast5
+*.bam
+*.bai
+*.cram
+databases/
+dorado_models/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

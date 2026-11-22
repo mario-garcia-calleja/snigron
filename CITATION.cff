@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SNIGRON: SNPs, indels and integrons in bacterial genome assemblies"
+authors:
+  - family-names: "García Calleja"
+    given-names: "Mario"
+version: 2.0.0
+date-released: 2026-11-22
+license: MIT
+repository-code: "https://github.com/mario-garcia-calleja/snigron"
